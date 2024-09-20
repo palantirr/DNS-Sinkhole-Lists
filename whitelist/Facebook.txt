@@ -1,0 +1,30 @@
+# Facebook
+@@||creative.ak.fbcdn.net^
+@@||external.xx.fbcdn.net^
+@@/external-*.xx.fbcdn.net/
+@@||scontent.xx.fbcdn.net^
+@@/scontent-*.xx.fbcdn.net/
+@@/video-*.xx.fbcdn.net/
+@@||connect.facebook.net^
+@@||api.facebook.com^
+@@||video.xx.fbcdn.net^
+@@||web.facebook.com^
+@@||facebook.com^
+@@||www.facebook.com^
+@@||static.xx.fbcdn.net^
+@@||rupload.facebook.com^
+@@||cdn.fbsbx.com^
+
+# Facebook Messenger
+@@||www.messenger.com^
+@@||messenger.com^
+@@||edge-chat.messenger.com^
+@@||edge-mqtt.facebook.com^
+@@||mqtt.c10r.facebook.com^
+@@||portal.fb.com^
+@@||star.c10r.facebook.com^
+@@||star-mini.c10r.facebook.com^
+@@||mqtt-mini.facebook.com^
+@@||mqtt.c10r.facebook.com^
+@@||m.facebook.com^
+@@||upload.messenger.com^
