@@ -28,3 +28,4 @@
 @@||mqtt.c10r.facebook.com^
 @@||m.facebook.com^
 @@||upload.messenger.com^
+@@||web-chat-e2ee.facebook.com^
