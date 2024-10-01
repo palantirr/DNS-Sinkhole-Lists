@@ -1,0 +1,8 @@
+! Title: Honey Smart Shopping
+!  Custom version of https://www.joinhoney.com/whitelist/honey-smart-shopping.txt
+!
+@@||joinhoney.com*$document
+@@||joinhoney.com*$elemhide
+@@||joinhoney.com^
+@@||joinhoney.com^$~third-party
+@@||honey.io^
