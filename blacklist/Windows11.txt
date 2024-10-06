@@ -13,14 +13,6 @@
 ||v20.events.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
 !
-! Maps
-||maps.windows.com^
-||*.ssl.ak.dynamic.tiles.virtualearth.net^
-||*.ssl.ak.tiles.virtualearth.net^
-||dev.virtualearth.net^
-||ecn.dev.virtualearth.net^
-||ssl.bing.com^
-!
 ! Edge
 ||edge.activity.windows.com^
 ||edge.microsoft.com^
