@@ -3,7 +3,6 @@
 !
 ! Weather app
 @@||tile-service.weather.microsoft.com^
-@@||www.msn.com^
 !
 ! OneNote Live tile
 @@||cdn.onenote.net^
@@ -95,3 +94,8 @@
 @@||dlassets-ssl.xboxlive.com^
 @@||da.xboxservices.com^
 @@||www.xboxab.com^
+!
+! App functionality
+@@||www.msn.com^
+@@||www.bing.com^
+@@||api.msn.com^
