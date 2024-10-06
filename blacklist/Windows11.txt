@@ -1,0 +1,41 @@
+! Title: Microsoft Windows 11 Connection Endpoints
+!   __blocklist__
+!
+! Telemetry
+||activity.windows.com^
+||www.bing.com^
+||fp.msedge.net^
+||k-ring.msedge.net^
+||b-ring.msedge.net^
+||cs.dds.microsoft.com^
+||dmd.metaservices.microsoft.com^
+||v10.events.data.microsoft.com^
+||v20.events.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+!
+! Maps
+||maps.windows.com^
+||*.ssl.ak.dynamic.tiles.virtualearth.net^
+||*.ssl.ak.tiles.virtualearth.net^
+||dev.virtualearth.net^
+||ecn.dev.virtualearth.net^
+||ssl.bing.com^
+!
+! Edge
+||edge.activity.windows.com^
+||edge.microsoft.com^
+!
+! Microsoft Store
+||manage.devcenter.microsoft.com^
+||store-images.s-microsoft.com^
+!
+! Office
+||self.events.data.microsoft.com^
+!
+! Windows Spotlight
+||arc.msn.com*^
+||ris.api.iris.microsoft.com^
+||mucp.api.account.microsoft.com^
+!
+! Microsoft Store
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
