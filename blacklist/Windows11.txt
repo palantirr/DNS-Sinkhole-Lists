@@ -12,6 +12,11 @@
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
+||self.events.data.microsoft.com^
+||browser.events.data.msn.com^
+||functional.events.data.microsoft.com^
+||watson.events.data.microsoft.com^
+||teams.events.data.microsoft.com^
 !
 ! Edge
 ||edge.activity.windows.com^
@@ -20,9 +25,6 @@
 ! Microsoft Store
 ||manage.devcenter.microsoft.com^
 ||store-images.s-microsoft.com^
-!
-! Office
-||self.events.data.microsoft.com^
 !
 ! Windows Spotlight
 ||arc.msn.com*^
