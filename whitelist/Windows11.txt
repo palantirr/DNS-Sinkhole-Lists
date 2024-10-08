@@ -7,14 +7,15 @@
 ! OneNote Live tile
 @@||cdn.onenote.net^
 !
-! Photos app
-@@||evoke-windowsservices-tas.msedge.net^
-!
 ! Spotify Live tile
 @@||spclient.wg.spotify.com^
 !
 ! Certificates
 @@||ctldl.windowsupdate.com^
+!
+! App functionality and Live Tiles
+@@||www.bing.com^
+@@||www.msn.com^
 !
 ! Device Authentication
 @@||login.live.com*^
@@ -40,29 +41,15 @@
 @@||storecatalogrevocation.storequality.microsoft.com^
 @@||*displaycatalog.mp.microsoft.com^
 @@||storesdk.dsx.mp.microsoft.com^
+@@||store-images.s-microsoft.com^
 !
 ! Network Connection Status Indicator
 @@||www.msftconnecttest.com*^
 !
-! Office
+! Office 365
 @@||outlook.office365.com^
 @@||office.com^
-@@||blobs.officehome.msocdn.com^
-@@||officehomeblobs.blob.core.windows.net^
-@@||*.blob.core.windows.net^
-@@||outlookmobile-office365-tas.msedge.net^
-@@||roaming.officeapps.live.com^
-@@||substrate.office.com^
-!
-! OneDrive
-@@||g.live.com^
-@@||oneclient.sfx.ms^
-@@||logincdn.msauth.net^
-@@||windows.policies.live.net^
-@@||api.onedrive.com^
-@@||skydrivesync.policies.live.net^
-@@||*storage.live.com^
-@@||*settings.live.net^
+@@||onedrive.live.com^
 !
 ! Settings
 @@||settings.data.microsoft.com^
@@ -94,8 +81,3 @@
 @@||dlassets-ssl.xboxlive.com^
 @@||da.xboxservices.com^
 @@||www.xboxab.com^
-!
-! App functionality
-@@||www.msn.com^
-@@||www.bing.com^
-@@||api.msn.com^
