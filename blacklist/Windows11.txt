@@ -3,33 +3,24 @@
 !
 ! Telemetry
 ||activity.windows.com^
-||www.bing.com^
-||fp.msedge.net^
-||k-ring.msedge.net^
+||browser.events.data.msn.com^
 ||b-ring.msedge.net^
 ||cs.dds.microsoft.com^
 ||dmd.metaservices.microsoft.com^
-||v10.events.data.microsoft.com^
-||v20.events.data.microsoft.com^
-||watson.telemetry.microsoft.com^
-||self.events.data.microsoft.com^
-||browser.events.data.msn.com^
-||functional.events.data.microsoft.com^
-||watson.events.data.microsoft.com^
-||teams.events.data.microsoft.com^
-!
-! Edge
 ||edge.activity.windows.com^
-||edge.microsoft.com^
-!
-! Microsoft Store
+||evoke-windowsservices-tas.msedge.net
+||fp.msedge.net^
+||functional.events.data.microsoft.com^
+||k-ring.msedge.net^
 ||manage.devcenter.microsoft.com^
-||store-images.s-microsoft.com^
-!
-! Windows Spotlight
-||arc.msn.com*^
-||ris.api.iris.microsoft.com^
-||mucp.api.account.microsoft.com^
-!
-! Microsoft Store
+||self.events.data.microsoft.com^
+||settings.data.microsoft.com*^
+||settings-win.data.microsoft.com*^
+||teams.events.data.microsoft.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
+||v10.events.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||watson.events.data.microsoft.com^
+||*.pipe.aria.microsoft.com^
+||config.edge.skype.com^
+||config.teams.microsoft.com^
