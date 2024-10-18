@@ -1,4 +1,4 @@
-! Title: Meta Facebook hostlist for phone only
+! Title: Meta Facebook allowlist
 ! Facebook
 @@||creative.ak.fbcdn.net^
 @@||external.xx.fbcdn.net^
