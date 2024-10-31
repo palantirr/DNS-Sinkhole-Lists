@@ -22,5 +22,6 @@
 @@||mqtt.c10r.facebook.com^
 @@||m.facebook.com^
 @@||upload.messenger.com^
+@@||rupload.facebook.com^
 @@||web-chat-e2ee.facebook.com^
 @@||www.fbsbx.com^
