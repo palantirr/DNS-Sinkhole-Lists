@@ -10,6 +10,8 @@
 @@||www.facebook.com^
 @@||static.xx.fbcdn.net^
 @@||cdn.fbsbx.com^
+!   major offending tracker <-- USE AT OWN RISK -->
+@@||graph.facebook.com^
 !
 ! Facebook Messenger
 @@||www.messenger.com^
