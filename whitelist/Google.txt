@@ -27,8 +27,10 @@
 @@||youtube.co.uk^$important
 @@||youtube.com^$important
 @@||blog.google^$important
-@@/*.googlevideo.com/$important
 @@||optimizationguide-pa.googleapis.com^$important
-@@/*.googleusercontent.com/$important
 ! @@||maps.googleapis.com^$important
-@@/*.googleapis.com/$important
+!
+! regex
+@@/.*\.googleapis.com/$important
+@@/.*\.googleusercontent.com/$important
+@@/.*\.googlevideo\.com/$important
