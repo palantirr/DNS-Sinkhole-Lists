@@ -18,6 +18,10 @@
 @@||googlecdn.org^$important
 @@||streetviewpixels-pa.googleapis.com^$important
 @@||maps.googleapis.com^$important
+@@||mobilemaps.googleapis.com^$important
+@@||oauth2.googleapis.com^$important
+@@||oauthaccountmanager.googleapis.com^$important
+@@||notifications-pa.googleapis.com^$important
 !
 ! <-- regex -->
 @@/.*\.googleusercontent.com/$important
