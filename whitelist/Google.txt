@@ -16,6 +16,8 @@
 @@||ai.google^$important
 @@||googleapps.com^$important
 @@||googlecdn.org^$important
+@@||streetviewpixels-pa.googleapis.com^$important
+@@||maps.googleapis.com^$important
 !
 ! <-- regex -->
 @@/.*\.googleusercontent.com/$important
