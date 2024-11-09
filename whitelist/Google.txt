@@ -1,36 +1,22 @@
 ! Title: Google Allowlist
 !
-! @@||googlehosted.com^$important
-@@||googleoptimize-cn.com^$important
-@@||googleoptimize.com^$important
-! @@||googletagmanager-cn.com^$important
-! @@||googletagmanager.com^$important
-! @@||googletagservices.com^$important
 @@||gstatic.com^$important
 @@||gstatic.net^$important
 @@||gstatic.org^$important
-@@||gmail.com^$important
 @@||google.co.uk^$important
 @@||google.com^$important
-@@||googleapps.com^$important
-@@||googlearth.com^$important
-! @@||googlecdn.org^$important
-! @@||googledomains.com^$important
+@@||gmail.com^$important
 @@||googledrive.com^$important
 @@||googleearth.com^$important
-@@||googlegroups.com^$important
 @@||googlemaps.com^$important
 @@||googletranslate.com^$important
-! @@||storegoogle.com^$important
-! @@||chrome.com^$important
-@@||youtu.be^$important
 @@||youtube.co.uk^$important
 @@||youtube.com^$important
 @@||blog.google^$important
-@@||optimizationguide-pa.googleapis.com^$important
-! @@||maps.googleapis.com^$important
+@@||ai.google^$important
+@@||googleapps.com^$important
+@@||googlecdn.org^$important
 !
-! regex
-@@/.*\.googleapis.com/$important
+! <-- regex -->
 @@/.*\.googleusercontent.com/$important
 @@/.*\.googlevideo\.com/$important
