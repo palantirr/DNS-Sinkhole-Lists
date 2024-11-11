@@ -16,13 +16,9 @@
 @@||ai.google^$important
 @@||googleapps.com^$important
 @@||googlecdn.org^$important
-@@||streetviewpixels-pa.googleapis.com^$important
-@@||maps.googleapis.com^$important
-@@||mobilemaps.googleapis.com^$important
-@@||oauth2.googleapis.com^$important
-@@||oauthaccountmanager.googleapis.com^$important
-@@||notifications-pa.googleapis.com^$important
+@@||o.pki.goog^$important
 !
 ! <-- regex -->
 @@/.*\.googleusercontent.com/$important
-@@/.*\.googlevideo\.com/$important
+@@/.*\.googlevideo.com/$important
+@@/.*\.googleapis.com/$important
