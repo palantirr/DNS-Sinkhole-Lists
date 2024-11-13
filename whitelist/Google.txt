@@ -18,7 +18,49 @@
 @@||googlecdn.org^$important
 @@||o.pki.goog^$important
 !
+! Google APIs
+@@||fonts.googleapis.com^$important
+@@||safebrowsing.googleapis.com^$important
+@@||update.googleapis.com^$important
+@@||oauth2.googleapis.com^$important
+@@||oauthaccountmanager.googleapis.com^$important
+@@||streetviewpixels-pa.googleapis.com^$important
+@@||www.googleapis.com^$important
+@@||mobilemaps-pa-gz.googleapis.com^$important
+@@||mobilemaps.googleapis.com^$important
+@@||storage.googleapis.com^$important
+@@||translate-pa.googleapis.com^$important
+@@||passbox-pa.googleapis.com^$important
+@@||drivefrontend-pa.googleapis.com^$important
+@@||notifications-pa.googleapis.com^$important
+!
+!  <-- disabled APIs -->
+! @@||tenor.googleapis.com^
+! @@||jnn-pa.googleapis.com^
+! @@||addons-pa.googleapis.com^
+! @@||taskassist-pa.googleapis.com^
+! @@||people-pa.googleapis.com^
+! @@||play.googleapis.com^
+! @@||geller-pa.googleapis.com^
+! @@||scone-pa.googleapis.com^
+! @@||iid.googleapis.com^
+! @@||fcmtoken.googleapis.com^
+! @@||firebaseinstallations.googleapis.com^
+! @@||device-provisioning.googleapis.com^
+! @@||growth-pa.googleapis.com^
+! @@||peoplestack-pa.googleapis.com^
+! @@||gcs-eu-00002.content-storage-upload.googleapis.com^
+! @@||firebaseremoteconfigrealtime.googleapis.com^
+! @@||firebaseremoteconfig.googleapis.com^
+! @@||firebaselogging-pa.googleapis.com^
+! @@||crashlyticsreports-pa.googleapis.com^
+! @@||gcs-eu-00002.content-storage-download.googleapis.com^
+! @@||locationhistory-pa.googleapis.com^
+! @@||accountcapabilities-pa.googleapis.com^
+! @@||ajax.googleapis.com^
+! @@||feedback-pa.googleapis.com^
+! @@||clienttracing-pa.googleapis.com^
+!
 ! <-- regex -->
 @@/.*\.googleusercontent.com/$important
 @@/.*\.googlevideo.com/$important
-@@/.*\.googleapis.com/$important
