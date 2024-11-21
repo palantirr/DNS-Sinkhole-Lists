@@ -1,38 +1,39 @@
 ! Title: Google Allowlist
 !
-@@||gstatic.com^$important
-@@||gstatic.net^$important
-@@||gstatic.org^$important
-@@||google.co.uk^$important
-@@||google.com^$important
-@@||gmail.com^$important
-@@||googledrive.com^$important
-@@||googleearth.com^$important
-@@||googlemaps.com^$important
-@@||googletranslate.com^$important
-@@||youtube.co.uk^$important
-@@||youtube.com^$important
-@@||blog.google^$important
-@@||ai.google^$important
-@@||googleapps.com^$important
-@@||googlecdn.org^$important
-@@||o.pki.goog^$important
+@@||gstatic.com^
+@@||gstatic.net^
+@@||gstatic.org^
+@@||google.co.uk^
+@@||google.com^
+@@||gmail.com^
+@@||googledrive.com^
+@@||googleearth.com^
+@@||googlemaps.com^
+@@||googletranslate.com^
+@@||youtube.co.uk^
+@@||youtube.com^
+@@||blog.google^
+@@||ai.google^
+@@||googleapps.com^
+@@||googlecdn.org^
+@@||o.pki.goog^
 !
 ! Google APIs
-@@||fonts.googleapis.com^$important
-@@||safebrowsing.googleapis.com^$important
-@@||update.googleapis.com^$important
-@@||oauth2.googleapis.com^$important
-@@||oauthaccountmanager.googleapis.com^$important
-@@||streetviewpixels-pa.googleapis.com^$important
-@@||www.googleapis.com^$important
-@@||mobilemaps-pa-gz.googleapis.com^$important
-@@||mobilemaps.googleapis.com^$important
-@@||storage.googleapis.com^$important
-@@||translate-pa.googleapis.com^$important
-@@||passbox-pa.googleapis.com^$important
-@@||drivefrontend-pa.googleapis.com^$important
-@@||notifications-pa.googleapis.com^$important
+@@||fonts.googleapis.com^
+@@||safebrowsing.googleapis.com^
+@@||update.googleapis.com^
+@@||oauth2.googleapis.com^
+@@||oauthaccountmanager.googleapis.com^
+@@||streetviewpixels-pa.googleapis.com^
+@@||www.googleapis.com^
+@@||mobilemaps-pa-gz.googleapis.com^
+@@||mobilemaps.googleapis.com^
+@@||storage.googleapis.com^
+@@||translate-pa.googleapis.com^
+@@||passbox-pa.googleapis.com^
+@@||drivefrontend-pa.googleapis.com^
+@@||notifications-pa.googleapis.com^
+@@||maps.googleapis.com^
 !
 !  <-- disabled APIs -->
 ! @@||tenor.googleapis.com^
@@ -62,5 +63,5 @@
 ! @@||clienttracing-pa.googleapis.com^
 !
 ! <-- regex -->
-@@/.*\.googleusercontent.com/$important
-@@/.*\.googlevideo.com/$important
+@@/.*\.googleusercontent.com/
+@@/.*\.googlevideo.com/
