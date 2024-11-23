@@ -3,6 +3,7 @@
 !
 ! Weather app
 @@||tile-service.weather.microsoft.com^
+@@||api.msn.com^
 !
 ! OneNote Live tile
 @@||cdn.onenote.net^
