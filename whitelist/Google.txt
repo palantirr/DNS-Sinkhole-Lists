@@ -30,6 +30,7 @@
 @@||mobilemaps.googleapis.com^
 @@||storage.googleapis.com^
 @@||translate-pa.googleapis.com^
+@@||translate.googleapis.com^
 @@||passbox-pa.googleapis.com^
 @@||drivefrontend-pa.googleapis.com^
 @@||notifications-pa.googleapis.com^
