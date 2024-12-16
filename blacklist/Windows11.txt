@@ -25,5 +25,5 @@
 ||config.edge.skype.com^
 ||config.teams.microsoft.com^
 ||graph.microsoft.com^
-||th.bing.com^$
+||th.bing.com^
 ||www2.bing.com^
