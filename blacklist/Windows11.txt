@@ -24,3 +24,6 @@
 ||*.pipe.aria.microsoft.com^
 ||config.edge.skype.com^
 ||config.teams.microsoft.com^
+||graph.microsoft.com^
+||th.bing.com^$
+||www2.bing.com^
