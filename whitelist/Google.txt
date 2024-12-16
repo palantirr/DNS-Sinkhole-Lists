@@ -1,68 +1,70 @@
 ! Title: Google Allowlist
 !
-@@||gstatic.com^
-@@||gstatic.net^
-@@||gstatic.org^
+! Apps
 @@||google.co.uk^
 @@||google.com^
+@@||youtube.co.uk^
+@@||youtube.com^
 @@||gmail.com^
 @@||googledrive.com^
 @@||googleearth.com^
 @@||googlemaps.com^
 @@||googletranslate.com^
-@@||youtube.co.uk^
-@@||youtube.com^
+||googleapps.com^
+!
+! Other
+@@||gstatic.com^
+@@||gstatic.net^
+@@||gstatic.org^
 @@||blog.google^
 @@||ai.google^
-@@||googleapps.com^
 @@||googlecdn.org^
-@@||o.pki.goog^
+@@/.*\.googleusercontent.com/
+@@/.*\.googlevideo.com/
+||o.pki.goog^
+||yt4.ggpht.com^
 !
-! Google APIs
+! APIs
+@@||www.googleapis.com^
+@@||maps.googleapis.com^
+@@||mobilemaps-pa-gz.googleapis.com^
+@@||mobilemaps.googleapis.com^
+@@||streetviewpixels-pa.googleapis.com^
+@@||mapsresources-pa.googleapis.com^
+@@||translate-pa.googleapis.com^
+@@||translate.googleapis.com^
+@@||jnn-pa.googleapis.com^
 @@||fonts.googleapis.com^
 @@||safebrowsing.googleapis.com^
 @@||update.googleapis.com^
 @@||oauth2.googleapis.com^
 @@||oauthaccountmanager.googleapis.com^
-@@||streetviewpixels-pa.googleapis.com^
-@@||www.googleapis.com^
-@@||mobilemaps-pa-gz.googleapis.com^
-@@||mobilemaps.googleapis.com^
 @@||storage.googleapis.com^
-@@||translate-pa.googleapis.com^
-@@||translate.googleapis.com^
-@@||passbox-pa.googleapis.com^
-@@||drivefrontend-pa.googleapis.com^
 @@||notifications-pa.googleapis.com^
-@@||maps.googleapis.com^
-!
-!  <-- disabled APIs -->
-! @@||tenor.googleapis.com^
-! @@||jnn-pa.googleapis.com^
-! @@||addons-pa.googleapis.com^
-! @@||taskassist-pa.googleapis.com^
-! @@||people-pa.googleapis.com^
-! @@||play.googleapis.com^
-! @@||geller-pa.googleapis.com^
-! @@||scone-pa.googleapis.com^
-! @@||iid.googleapis.com^
-! @@||fcmtoken.googleapis.com^
-! @@||firebaseinstallations.googleapis.com^
-! @@||device-provisioning.googleapis.com^
-! @@||growth-pa.googleapis.com^
-! @@||peoplestack-pa.googleapis.com^
-! @@||gcs-eu-00002.content-storage-upload.googleapis.com^
-! @@||firebaseremoteconfigrealtime.googleapis.com^
-! @@||firebaseremoteconfig.googleapis.com^
-! @@||firebaselogging-pa.googleapis.com^
-! @@||crashlyticsreports-pa.googleapis.com^
-! @@||gcs-eu-00002.content-storage-download.googleapis.com^
-! @@||locationhistory-pa.googleapis.com^
-! @@||accountcapabilities-pa.googleapis.com^
-! @@||ajax.googleapis.com^
-! @@||feedback-pa.googleapis.com^
-! @@||clienttracing-pa.googleapis.com^
-!
-! <-- regex -->
-@@/.*\.googleusercontent.com/
-@@/.*\.googlevideo.com/
+||passbox-pa.googleapis.com^
+||drivefrontend-pa.googleapis.com^
+||tenor.googleapis.com^
+||jnn-pa.googleapis.com^
+||addons-pa.googleapis.com^
+||taskassist-pa.googleapis.com^
+||people-pa.googleapis.com^
+||play.googleapis.com^
+||geller-pa.googleapis.com^
+||scone-pa.googleapis.com^
+||iid.googleapis.com^
+||fcmtoken.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||device-provisioning.googleapis.com^
+||growth-pa.googleapis.com^
+||peoplestack-pa.googleapis.com^
+||gcs-eu-00002.content-storage-upload.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||gcs-eu-00002.content-storage-download.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||accountcapabilities-pa.googleapis.com^
+||ajax.googleapis.com^
+||feedback-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^
