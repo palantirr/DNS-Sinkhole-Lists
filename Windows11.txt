@@ -1,84 +1,70 @@
 ! Title: Microsoft Windows 11 Connection Endpoints
-!   __allowlist__
 !
-! Weather app
+||activity.windows.com^
+||browser.events.data.msn.com^
+||b-ring.msedge.net^
+||cs.dds.microsoft.com^
+||dmd.metaservices.microsoft.com^
+||edge.activity.windows.com^
+||evoke-windowsservices-tas.msedge.net
+||fp.msedge.net^
+||functional.events.data.microsoft.com^
+||k-ring.msedge.net^
+||manage.devcenter.microsoft.com^
+||self.events.data.microsoft.com^
+||settings.data.microsoft.com*^
+||settings-win.data.microsoft.com*^
+||teams.events.data.microsoft.com^
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
+||v10.events.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||watson.events.data.microsoft.com^
+||*.pipe.aria.microsoft.com^
+||config.edge.skype.com^
+||config.teams.microsoft.com^
+||graph.microsoft.com^
+||th.bing.com^
+||www2.bing.com^
+!
 @@||tile-service.weather.microsoft.com^
 @@||api.msn.com^
-!
-! OneNote Live tile
 @@||cdn.onenote.net^
-!
-! Spotify Live tile
 @@||spclient.wg.spotify.com^
-!
-! Certificates
 @@||ctldl.windowsupdate.com^
-!
-! App functionality and Live Tiles
 @@||www.bing.com^
 @@||www.msn.com^
-!
-! Device Authentication
 @@||login.live.com*^
-!
-! Fonts
 @@||fs.microsoft.com^
-!
-! Licensing
 @@||licensing.mp.microsoft.com^
-!
-! Location
 @@||inference.location.live.net^
-!
-! Microsoft Account sign-in
 @@||*login.live.com^
-!
-! Microsoft Edge Update service (for security)
 @@||msedge.api.cdp.microsoft.com^
-!
-! Microsoft Store
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^
 @@||*.wns.windows.com^
 @@||storecatalogrevocation.storequality.microsoft.com^
 @@||*displaycatalog.mp.microsoft.com^
 @@||storesdk.dsx.mp.microsoft.com^
 @@||store-images.s-microsoft.com^
-!
-! Network Connection Status Indicator
 @@||www.msftconnecttest.com*^
-!
-! Office 365
 @@||outlook.office365.com^
 @@||office.com^
 @@||onedrive.live.com^
-!
-! Settings
 @@||settings.data.microsoft.com^
-!
-! Skype
 @@||*.pipe.aria.microsoft.com^
 @@||config.edge.skype.com^
-!
-! Teams
 @@||config.teams.microsoft.com^
-!
-! Microsoft Defender Antivirus
 @@||wdcp.microsoft.com^
 @@||wdcpalt.microsoft.com^
 @@||*.smartscreen-prod.microsoft.com^
 @@||definitionupdates.microsoft.com^
 @@||*.smartscreen.microsoft.com^
 @@||checkappexec.microsoft.com^
-!
-! Windows Update
 @@||*.prod.do.dsp.mp.microsoft.com^
 @@||*.dl.delivery.mp.microsoft.com^
 @@||*.windowsupdate.com^
 @@||*.delivery.mp.microsoft.com^
 @@||*.update.microsoft.com^
 @@||adl.windows.com^
-!
-! Xbox Live
 @@||dlassets-ssl.xboxlive.com^
 @@||da.xboxservices.com^
 @@||www.xboxab.com^
