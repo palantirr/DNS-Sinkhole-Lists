@@ -1,5 +1,5 @@
-! Title: Meta Facebook allowlist
-! Facebook
+! Title: Meta Facebook
+! Facebook website
 @@||creative.ak.fbcdn.net^
 @@||external.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^

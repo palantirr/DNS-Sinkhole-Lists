@@ -1,16 +1,18 @@
-! Title: Google Allowlist
+! Title: Google
 !
 ! Apps
 @@||google.co.uk^
 @@||google.com^
+@@||goo.gl^
 @@||youtube.co.uk^
 @@||youtube.com^
+@@||youtu.be^
 @@||gmail.com^
 @@||googledrive.com^
 @@||googleearth.com^
 @@||googlemaps.com^
 @@||googletranslate.com^
-||googleapps.com^
+@@||googleapps.com^
 !
 ! Other
 @@||gstatic.com^
@@ -19,9 +21,10 @@
 @@||blog.google^
 @@||ai.google^
 @@||googlecdn.org^
+@@||googlescholar.com^
 @@/.*\.googleusercontent.com/
 @@/.*\.googlevideo.com/
-||o.pki.goog^
+@@||pki.goog^
 ||yt4.ggpht.com^
 !
 ! APIs
@@ -41,6 +44,11 @@
 @@||oauthaccountmanager.googleapis.com^
 @@||storage.googleapis.com^
 @@||notifications-pa.googleapis.com^
+@@||crl.pki.goog^
+@@||c.pki.goog^
+@@||o.pki.goog^
+@@||rr1---sn-1xopouxgoxu-aigl.offline-maps.gvt1.com^
+@@||content-autofill.googleapis.com^
 ||passbox-pa.googleapis.com^
 ||drivefrontend-pa.googleapis.com^
 ||tenor.googleapis.com^
