@@ -49,7 +49,7 @@
 @@||o.pki.goog^
 @@||rr1---sn-1xopouxgoxu-aigl.offline-maps.gvt1.com^
 @@||content-autofill.googleapis.com^
-||passbox-pa.googleapis.com^
+@@||passbox-pa.googleapis.com^
 ||drivefrontend-pa.googleapis.com^
 ||tenor.googleapis.com^
 ||jnn-pa.googleapis.com^
