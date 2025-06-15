@@ -25,6 +25,9 @@
 @@/.*\.googleusercontent.com/
 @@/.*\.googlevideo.com/
 @@||pki.goog^
+@@||crl.pki.goog^
+@@||c.pki.goog^
+@@||o.pki.goog^
 ||yt4.ggpht.com^
 !
 ! APIs
@@ -36,7 +39,6 @@
 @@||mapsresources-pa.googleapis.com^
 @@||translate-pa.googleapis.com^
 @@||translate.googleapis.com^
-@@||jnn-pa.googleapis.com^
 @@||fonts.googleapis.com^
 @@||safebrowsing.googleapis.com^
 @@||update.googleapis.com^
@@ -44,12 +46,11 @@
 @@||oauthaccountmanager.googleapis.com^
 @@||storage.googleapis.com^
 @@||notifications-pa.googleapis.com^
-@@||crl.pki.goog^
-@@||c.pki.goog^
-@@||o.pki.goog^
 @@||rr1---sn-1xopouxgoxu-aigl.offline-maps.gvt1.com^
 @@||content-autofill.googleapis.com^
 @@||passbox-pa.googleapis.com^
+@@||gcs-eu-00002.content-storage-upload.googleapis.com^
+@@||gcs-eu-00002.content-storage-download.googleapis.com^
 ||drivefrontend-pa.googleapis.com^
 ||tenor.googleapis.com^
 ||jnn-pa.googleapis.com^
@@ -65,12 +66,10 @@
 ||device-provisioning.googleapis.com^
 ||growth-pa.googleapis.com^
 ||peoplestack-pa.googleapis.com^
-||gcs-eu-00002.content-storage-upload.googleapis.com^
 ||firebaseremoteconfigrealtime.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
-||gcs-eu-00002.content-storage-download.googleapis.com^
 ||locationhistory-pa.googleapis.com^
 ||accountcapabilities-pa.googleapis.com^
 ||ajax.googleapis.com^
