@@ -29,6 +29,7 @@
 @@||c.pki.goog^
 @@||o.pki.goog^
 ||yt4.ggpht.com^
+@@||geo0.ggpht.com^
 !
 ! APIs
 @@||www.googleapis.com^
