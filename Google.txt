@@ -50,8 +50,8 @@
 @@||rr1---sn-1xopouxgoxu-aigl.offline-maps.gvt1.com^
 @@||content-autofill.googleapis.com^
 @@||passbox-pa.googleapis.com^
-@@||gcs-eu-00002.content-storage-upload.googleapis.com^
 @@||gcs-eu-00002.content-storage-download.googleapis.com^
+@@||gcs-eu-00002.content-storage-upload.googleapis.com^
 ||drivefrontend-pa.googleapis.com^
 ||tenor.googleapis.com^
 ||jnn-pa.googleapis.com^
