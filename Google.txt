@@ -33,6 +33,7 @@
 !
 ! APIs
 @@||www.googleapis.com^
+@@||googleapis.com^
 @@||maps.googleapis.com^
 @@||mobilemaps-pa-gz.googleapis.com^
 @@||mobilemaps.googleapis.com^
@@ -52,6 +53,8 @@
 @@||passbox-pa.googleapis.com^
 @@||gcs-eu-00002.content-storage-download.googleapis.com^
 @@||gcs-eu-00002.content-storage-upload.googleapis.com^
+@@||gcs-us-00002.content-storage-download.googleapis.com^
+@@||gcs-us-00002.content-storage-upload.googleapis.com^
 ||drivefrontend-pa.googleapis.com^
 ||tenor.googleapis.com^
 ||jnn-pa.googleapis.com^
