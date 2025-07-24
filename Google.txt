@@ -28,12 +28,10 @@
 @@||crl.pki.goog^
 @@||c.pki.goog^
 @@||o.pki.goog^
-||yt4.ggpht.com^
 @@||geo0.ggpht.com^
+||yt4.ggpht.com^
 !
 ! APIs
-@@||www.googleapis.com^
-@@||googleapis.com^
 @@||maps.googleapis.com^
 @@||mobilemaps-pa-gz.googleapis.com^
 @@||mobilemaps.googleapis.com^
