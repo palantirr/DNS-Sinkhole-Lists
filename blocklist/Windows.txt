@@ -1,0 +1,27 @@
+! Title: Microsoft Windows 11 Connection Endpoints
+!
+||activity.windows.com^
+||browser.events.data.msn.com^
+||b-ring.msedge.net^
+||cs.dds.microsoft.com^
+||dmd.metaservices.microsoft.com^
+||edge.activity.windows.com^
+||evoke-windowsservices-tas.msedge.net
+||fp.msedge.net^
+||functional.events.data.microsoft.com^
+||k-ring.msedge.net^
+||manage.devcenter.microsoft.com^
+||self.events.data.microsoft.com^
+||settings.data.microsoft.com*^
+||settings-win.data.microsoft.com*^
+||teams.events.data.microsoft.com^
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
+||v10.events.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||watson.events.data.microsoft.com^
+||*.pipe.aria.microsoft.com^
+||config.edge.skype.com^
+||config.teams.microsoft.com^
+||graph.microsoft.com^
+||th.bing.com^
+||www2.bing.com^

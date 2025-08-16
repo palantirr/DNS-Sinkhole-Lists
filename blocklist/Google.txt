@@ -1,0 +1,27 @@
+! Title: Google
+!
+||yt4.ggpht.com^
+||drivefrontend-pa.googleapis.com^
+||tenor.googleapis.com^
+||jnn-pa.googleapis.com^
+||addons-pa.googleapis.com^
+||taskassist-pa.googleapis.com^
+||people-pa.googleapis.com^
+||play.googleapis.com^
+||geller-pa.googleapis.com^
+||scone-pa.googleapis.com^
+||iid.googleapis.com^
+||fcmtoken.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||device-provisioning.googleapis.com^
+||growth-pa.googleapis.com^
+||peoplestack-pa.googleapis.com^
+||firebaseremoteconfigrealtime.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||locationhistory-pa.googleapis.com^
+||accountcapabilities-pa.googleapis.com^
+||ajax.googleapis.com^
+||feedback-pa.googleapis.com^
+||clienttracing-pa.googleapis.com^

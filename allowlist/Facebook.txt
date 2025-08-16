@@ -1,5 +1,5 @@
-! Title: Meta Facebook
-! Facebook website
+! Title: Facebook
+!
 @@||creative.ak.fbcdn.net^
 @@||external.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
@@ -11,9 +11,8 @@
 @@||static.xx.fbcdn.net^
 @@||cdn.fbsbx.com^
 @@||upload.facebook.com^
-||graph.facebook.com^
 !
-! Facebook Messenger
+! Messenger
 @@||www.messenger.com^
 @@||edge-chat.messenger.com^
 @@||edge-chat.facebook.com^
