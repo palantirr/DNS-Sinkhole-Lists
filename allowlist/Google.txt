@@ -30,6 +30,7 @@
 @@||o.pki.goog^
 @@||geo0.ggpht.com^
 @@||csp.withgoogle.com^
+@@||i.ytimg.com^
 !
 ! APIs
 @@||maps.googleapis.com^
