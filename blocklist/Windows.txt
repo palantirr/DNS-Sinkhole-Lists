@@ -11,6 +11,8 @@
 ||t-ring-fdv2.msedge.net^
 ||tse1.mm.bing.net^
 ||browser.events.data.msn.com^
+||browser.events.data.microsoft.com^
+||browser.events.data.trafficmanager.net^
 ||functional.events.data.microsoft.com^
 ||fp.msedge.net^
 ||k-ring.msedge.net^
@@ -18,6 +20,7 @@
 ||cs.dds.microsoft.com^
 ||dmd.metaservices.microsoft.com^
 ||v10.events.data.microsoft.com^
+||v20.events.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||watson.events.data.microsoft.com^
 ||edge.activity.windows.com^
@@ -38,3 +41,8 @@
 ||graph.microsoft.com^
 ||th.bing.com^
 ||www2.bing.com^
+||arc.msn.com^
+||canary.activity.windows.com^
+||ppe.activity.windows.com^
+||js.monitor.azure.com^
+||mobile.events.data.microsoft.com^

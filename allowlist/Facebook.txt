@@ -3,6 +3,7 @@
 @@||creative.ak.fbcdn.net^
 @@||external.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
+@@||connect.facebook.com^
 @@||connect.facebook.net^
 @@||api.facebook.com^
 @@||video.xx.fbcdn.net^
@@ -20,6 +21,8 @@
 @@||mqtt.c10r.facebook.com^
 @@||star.c10r.facebook.com^
 @@||star-mini.c10r.facebook.com^
+@@||star-mini-nohsts.c10r.facebook.com^
+@@||star-nohsts.c10r.facebook.com^
 @@||mqtt-mini.facebook.com^
 @@||mqtt.c10r.facebook.com^
 @@||m.facebook.com^

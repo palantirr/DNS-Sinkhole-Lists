@@ -54,7 +54,6 @@
 @@||assets.msn.com^
 @@||www.msn.com^
 @@||definitionupdates.microsoft.com^
-@@||arc.msn.com^
 @@||ris.api.iris.microsoft.com^
 @@||mucp.api.account.microsoft.com^
 @@||*.prod.do.dsp.mp.microsoft.com^
@@ -68,3 +67,13 @@
 @@||www.xboxab.com^
 @@||to-do.microsoft.com^
 @@||onedrive.live.com^
+@@||bat.bing.com^
+@@||in.appcenter.ms^
+@@||api.diagnostics.office.com^
+@@||api.msa.diagnostics.office.com^
+@@||cjs.diagnostics.office.com^
+@@||diagnostics.office.com^
+@@||incidents.diagnostics.office.com^
+@@||logging.diagnostics.office.com^
+@@||msa.diagnostics.office.com^
+@@||supportexperience.diagnostics.office.com^
