@@ -77,3 +77,4 @@
 @@||logging.diagnostics.office.com^
 @@||msa.diagnostics.office.com^
 @@||supportexperience.diagnostics.office.com^
+@@||www.bing.com^

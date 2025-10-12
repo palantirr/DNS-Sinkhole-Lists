@@ -2,7 +2,6 @@
 !
 ||activity.windows.com^
 ||assets.activity.windows.com^
-||www.bing.com^
 ||c.bing.com^
 ||edgeassetservice.azureedge.net^
 ||r.bing.com^
