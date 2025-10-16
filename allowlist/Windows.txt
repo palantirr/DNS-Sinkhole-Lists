@@ -78,3 +78,11 @@
 @@||msa.diagnostics.office.com^
 @@||supportexperience.diagnostics.office.com^
 @@||www.bing.com^
+@@||r.bing.com^
+@@||th.bing.com^
+@@||c.bing.com^
+@@||fd.api.iris.microsoft.com^
+@@||graph.microsoft.com^
+@@||fp.msedge.net^
+@@||config.edge.skype.com^
+@@||edge.skype.com^
