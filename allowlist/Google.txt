@@ -49,6 +49,7 @@
 @@||notifications-pa.googleapis.com^
 @@||rr1---sn-1xopouxgoxu-aigl.offline-maps.gvt1.com^
 @@||content-autofill.googleapis.com^
+@@||content.googleapis.com^
 @@||passbox-pa.googleapis.com^
 @@||gcs-eu-00002.content-storage-download.googleapis.com^
 @@||gcs-eu-00002.content-storage-upload.googleapis.com^
