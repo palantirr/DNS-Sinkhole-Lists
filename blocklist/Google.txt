@@ -22,6 +22,5 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||locationhistory-pa.googleapis.com^
 ||accountcapabilities-pa.googleapis.com^
-||ajax.googleapis.com^
 ||feedback-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^

@@ -58,3 +58,4 @@
 @@||tenor.googleapis.com^
 @@||iosantiabuse-pa.googleapis.com^
 @@||youtubei.googleapis.com^
+@@||ajax.googleapis.com^
